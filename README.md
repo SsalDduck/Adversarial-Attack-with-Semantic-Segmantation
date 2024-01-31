@@ -1,6 +1,6 @@
 # Dense-Adversarial-Attack-in-Semantic-Segmantation
 
-  This repository generate Adversarial Attack Image by using Dense Adversarial Attack in Semantic Segmantation Method (papaer : https://arxiv.org/abs/1703.08603 ).\
+  This repository generate Adversarial Attack Image by using Dense Adversarial Attack in Semantic Segmantation Method (papaer : https://arxiv.org/abs/1703.08603 ).
 
 ---
 # Demo
@@ -37,7 +37,8 @@
   Run Adimg_generator src, You can easily genaerate perturbation.\
   According to paper, Main idea of DAG is gradient with fake GT.\
   There are three types of denseadversarial attack.\
-  DAG_A , DAG_B , DAG_C . Their difference is way to make fake GT.
+  DAG_A , DAG_B , DAG_C . Their difference is way to make fake GT.\
+  Those 3 methods reference are from https://github.com/sky4689524/Pytorch_AdversarialAttacks
 
   ---
   
