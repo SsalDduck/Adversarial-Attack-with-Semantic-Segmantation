@@ -38,7 +38,7 @@
   According to paper, Main idea of DAG is gradient with fake GT.\
   There are three types of denseadversarial attack.\
   DAG_A , DAG_B , DAG_C . Their difference is way to make fake GT.\
-  Those 3 methods reference are from https://github.com/sky4689524/Pytorch_AdversarialAttacks
+  Those 3 method's reference : https://github.com/sky4689524/Pytorch_AdversarialAttacks
 
   ---
   
